@@ -15,6 +15,8 @@ public class League extends Extractor{
 	private String name;
 	private int total_rounds;
 	private int current_round;
+	private int valor;
+	private int valor2;
 	
 	public League(int id, String name, int total_rounds, int current_round) {
 		super();
