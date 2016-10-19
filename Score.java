@@ -17,6 +17,7 @@ public class Score extends Extractor{
 	private String visitorName;
 	private int localGoals;
 	private int visitorGoals;
+	private int poochis;
 	
 	
 	public Score(String localName, String visitorName, int localGoals, int visitorGoals) {
